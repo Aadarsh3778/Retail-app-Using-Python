@@ -18,4 +18,8 @@ To do list Image:-
 ![image](https://user-images.githubusercontent.com/67564898/161529248-336ef230-5ff8-4659-bf81-4732f5726781.png)
 
 
-The app contains 5 Button in Home page Email button will take you to your gmail account, Billing button will take you to Billing System where you can do the billng of the goods, Employees button will take you to Employee regestration where you can register the new employes or check there details, to do list will take you to to do list or pending order system where the pnding works details can be stored or can be seen.
+The app contains 5 Buttons in Home page
+Email button will take you to your gmail account,
+Billing button will take you to Billing System where you can do the billng of the goods,
+Employees button will take you to Employee regestration where you can register the new employes or check there details,
+to do list will take you to the to do list or pending order system where the pnding works details can be stored or can be seen.
