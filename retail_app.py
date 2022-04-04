@@ -80,21 +80,6 @@ def home_page():
         def clearing():
             txt.delete('1.0', END)
 
-        # Function to get total prices
-        # def total():
-        #     # =================Total Food Prices
-        #     total_food_prices = (
-        #             (qitem1.get() * pitem1.get()) +
-        #             (qitem2.get() * pitem2.get()) +
-        #             (qitem3.get() * pitem3.get()) +
-        #             (qitem4.get() * pitem4.get()) +
-        #             (qitem5.get() * pitem5.get()) +
-        #             (qitem6.get() * pitem6.get()) +
-        #             (qitem7.get() * pitem7.get()) +
-        #             (qitem8.get() * pitem8.get())
-        #     )
-        #     total_food.set("Rs. " + str(total_food_prices))
-
         # Add Product name , qty and price to bill area
         def bill_area():
 
@@ -211,16 +196,6 @@ def home_page():
         qitem6 = IntVar()
         qitem7 = IntVar()
         qitem8 = IntVar()
-        # qitem9 = IntVar()
-
-        # itemchoosen1 = StringVar()
-        # itemchoosen2 = StringVar()
-        # itemchoosen3 = StringVar()
-        # itemchoosen4 = StringVar()
-        # itemchoosen5 = StringVar()
-        # itemchoosen6 = StringVar()
-        # itemchoosen7 = StringVar()
-        # itemchoosen8 = StringVar()
 
         total_food = StringVar()
 
